@@ -1,0 +1,4 @@
+jenkins setup
+
+username - admin
+password - Maddy#123
